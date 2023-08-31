@@ -41,21 +41,21 @@ c. Fecha: Noviembre de 1995
 
 6) Información sobre los atributos
 
-    1. Número de identificación
-    2. Diagnóstico (M = maligno, B = benigno)
-    3-32.
-    Se calculan diez características de valor real para cada núcleo celular:
+1. Número de identificación
+2. Diagnóstico (M = maligno, B = benigno)
+3-32.
+Se calculan diez características de valor real para cada núcleo celular:
     
-        a. radio (media de las distancias del centro a los puntos del perímetro)
-        b. textura (desviación estándar de los valores en escala de grises)
-        c. perímetro
-        d. área
-        e. suavidad (variación local de las longitudes de los radios)
-        f. compacidad (perímetro^2 / área - 1,0)
-        g. concavidad (gravedad de las partes cóncavas del contorno)
-        h. puntos cóncavos (número de porciones cóncavas del contorno)
-        i. simetría 
-        j. dimensión fractal ("aproximación de la línea de costa" - 1)
+a. radio (media de las distancias del centro a los puntos del perímetro)
+b. textura (desviación estándar de los valores en escala de grises)
+c. perímetro
+d. área
+e. suavidad (variación local de las longitudes de los radios)
+f. compacidad (perímetro^2 / área - 1,0)
+g. concavidad (gravedad de las partes cóncavas del contorno)
+h. puntos cóncavos (número de porciones cóncavas del contorno)
+i. simetría 
+j. dimensión fractal ("aproximación de la línea de costa" - 1)
 
 Varios de los artículos citados contienen descripciones detalladas de
 cómo se calculan estas características. 
